@@ -6,7 +6,7 @@ def main():
 
         if kuhan_pituus < alin_sallittu_pituus:
             puuttuva_pituus = alin_sallittu_pituus - kuhan_pituus
-            print(f"Kuha on alimittainen. Laske se takaisin järveen. Puuttuu {puuttuva_pituus: .2f} cm.")
+            print(f"Kuha on alimittainen. Laske se takaisin järveen. Puuttuu: {puuttuva_pituus} cm.")
         else:
             print(f"Kuha on yli alimman sallitun pyyntimitan. Voit pitää sen.")
 

@@ -1,5 +1,5 @@
-käyttäjä = input('Anna nimesi: ')
-print("Terve, " + käyttäjä + "!")
+kayttaja = input('Anna nimesi: ')
+print("Terve, " + kayttaja + "!")
 
-käyttäjä = input('Anna nimesi: ')
-print("Terve, " + käyttäjä + "!")
+kayttaja = input('Anna nimesi: ')
+print("Terve, " + kayttaja + "!")

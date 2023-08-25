@@ -1,3 +1,4 @@
+print("Anna kolme kokonaislukua")
 luku1 = int(input("Anna ensimmäinen kokonaisluku: "))
 luku2 = int(input("Anna toinen kokonaisluku: "))
 luku3 = int(input("Anna kolmas kokonaisluku: "))
@@ -10,5 +11,4 @@ keskiarvo = summa / 3
 
 print(f"Lukujen summa on: {summa}")
 print(f"Lukujen tulo on: {tulo}")
-print(f"Lukujen keskiarvo on: {keskiarvo}")
-
+print(f"Lukujen keskiarvo on: {keskiarvo:.2f}")

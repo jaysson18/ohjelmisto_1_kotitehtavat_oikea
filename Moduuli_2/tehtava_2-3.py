@@ -1,5 +1,5 @@
 kanta = float(input("Anna suorakulmion kanta: "))
-korkeus =float(input("Anna suorakulmion korkeus"))
+korkeus = float(input("Anna suorakulmion korkeus"))
 
 piiri = 2 * (kanta, korkeus)
 

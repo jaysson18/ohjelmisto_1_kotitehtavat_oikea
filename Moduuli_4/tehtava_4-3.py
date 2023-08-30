@@ -2,7 +2,7 @@ pienin_luku = None
 suurin_luku = None
 
 while True:
-    syote = input("Anna luku (lopettaakseni, jätä kenttä tyhjäksi): ")
+    syote = input("Anna luku (lopettaaksesi, jätä kenttä tyhjäksi): ")
 
     if syote == "":
         break

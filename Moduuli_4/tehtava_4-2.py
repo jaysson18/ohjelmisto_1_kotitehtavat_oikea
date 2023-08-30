@@ -6,4 +6,4 @@ while True:
         break
 
     senttimetrit = tuumat * 2.54
-    print(f"{tuumat} tuuma on {senttimetrit} senttimetreinä.")
+    print(f"{tuumat} tuumaa on {senttimetrit} senttimetreinä.")

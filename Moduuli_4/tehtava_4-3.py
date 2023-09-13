@@ -22,5 +22,3 @@ while True:
 if pienin_luku is not None and suurin_luku is not None:
     print(f"Pienin luku: {pienin_luku}")
     print(f"Suurin luku: {suurin_luku}")
-else:
-    print("Ohjelma lopetettu!")

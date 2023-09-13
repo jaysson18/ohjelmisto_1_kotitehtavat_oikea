@@ -17,4 +17,4 @@ def laske_pi(n):
 if __name__ == "__main__":
     n = int(input("Kuinka monta pistettä arvotaan? "))
     pi_likiarvo = laske_pi(n)
-    print(f"π:n likimääräinen arvo on {pi_likiarvo}")
+    print(f"π:n likimääräinen arvo on {pi_likiarvo}")s

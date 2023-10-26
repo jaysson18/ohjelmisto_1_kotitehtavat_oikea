@@ -23,6 +23,7 @@ def hae_lentokentta(icao):
         return "Lentokenttää ei löydy", 404
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=3000)
+    app.run(host='127.0.0.1', port=3000, debug=True)
+
 
     #muista laitta url kenttään tämä url: http://127.0.0.1:3000/kenttä/EFHK jotta helsinki näkyy ja vaihda icao koodi muihin

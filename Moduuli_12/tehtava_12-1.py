@@ -14,4 +14,4 @@ try:
     else:
         print("Vitsin hakeminen epäonnistui.")
 except Exception as e:
-    print("Virhe: {e}")
+    print(f"Virhe: {e}")
